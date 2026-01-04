@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, we are Compass Soft</h1>
-<h3 align="center">Compass Car Hud</h3>
+<h1 align="center">Hi 👋, we are SQRZ Devs</h1>
+<h3 align="center">Sqrz Car Hud</h3>
 
-- Compass Soft Car Hud **For FiveM**
+- Sqrz **For FiveM**
 
 - Hello, this is our first script we shared. **We can say that it is a bit lacking in terms of optimization because we wanted to publish our script as soon as possible. We will of course make updates.**
 
